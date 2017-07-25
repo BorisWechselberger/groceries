@@ -1,9 +1,9 @@
 # Groceries
 
 Develop a simple program that calculates the price of a shopping basket 
-• Programming language: JavaScript
-• Expected duration: ca. 2h
-• Deliverables: Full set of development artefacts, which enables execution
+ - Programming language: JavaScript
+ - Expected duration: ca. 2h
+ - Deliverables: Full set of development artefacts, which enables execution
 
 [Exercise](2017MAY_Tech-Test_Node.js-Developer.pdf)
 
